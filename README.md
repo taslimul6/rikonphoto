@@ -1,2 +1,0 @@
-# rikonphoto
-Rikonphoto - Photography
